@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'fgmt/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = "gmt"
+  gem.name          = "fgmt"
   gem.version       = Fgmt::VERSION
   gem.authors       = ["Francis Mamaril Gonzales"]
   gem.email         = ["francisgonzales.developer@gmail.com"]

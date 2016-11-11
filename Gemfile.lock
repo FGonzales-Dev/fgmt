@@ -21,9 +21,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  fgmt!
   rake
   rspec (~> 2.13, >= 2.13.0)
-  timezone_gmt!
 
 BUNDLED WITH
    1.13.6

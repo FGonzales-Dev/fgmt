@@ -1,4 +1,4 @@
-# Gmt
+# Fgmt
 by [Francis Mamaril Gonzales](https://github.com/FrancisMG)
 
 Provides listing of different forms of government that you may need in your ruby applications.
